@@ -1,4 +1,3 @@
-# bootstrap
 <!doctype html>
 <html lang="en">
   <head>
@@ -71,12 +70,12 @@
   <h1 class="text-center">Services offered</h1>
   <hr>
   <div class="row">
-    <div class="col-sm-4">A FREE CLINIC<br>
+    <div class="col-sm-4"><h5 style="color: green;">A FREE CLINIC</h5>
 Health centers are very different from free clinics. The two differ in many ways. Health centers receive some of its funding from federal and other grants, government healthcare programs, and insurance payments. Free clinics are funded by private investments and donations. Health centers are staffed by employees hired with quality standards and experience, while free clinics are in most cases staffed by volunteers providing quality care. Health centers are strictly directed by a board with at least 51% community patient members. Free clinic boards vary and may not be majority-lead by community patients.</div>
-      <div class="col-sm-4">THE PURPOSE OF HEALTH CENTERS<br>
+      <div class="col-sm-4"><h5 style="color: green;"> THE PURPOSE OF HEALTH CENTERS</h5>
 There’s a lot of things a health center is, and a lot of things that a health center is not. It can get confusing, and difficult to remember all the details.<br>
 The main point is, community health centers are driven by patients, for patients. They accommodate patients’ unique needs and do their best to help them overcome obstacles to high-quality healthcare. Most importantly, they make healthcare affordable, accessible, and adequate.</div>
-        <div class="col-sm-4">A SPECIALIST DOCTOR’S OFFICE<br>
+        <div class="col-sm-4"><h5 style="color: green;">A SPECIALIST DOCTOR’S OFFICE</h5>
 Different from general physicians, specialist doctors usually don’t provide the first line of defense against health issues. After seeing a general physician, he or she might refer you to a specialist to take a deeper dive and receive their expert care. For instance, if you have skin issues, you may get referred to a dermatologist for treatment.
 While health centers have both doctors and dentists, they generally do not have specialist doctors in-house. In this case, health centers will refer you to trusted specialists that can treat patients with their insurance coverage — or lack thereof. Some Health Centers may provide specialty care like podiatry.</div>
     </div>
